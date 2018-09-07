@@ -17,12 +17,12 @@ msgstr ""
 #: ./src/templates/modals/twofactor/sharedSecret.tpl.html:24
 msgctxt "2FA setup modal"
 msgid "30 seconds"
-msgstr ""
+msgstr "30 sekunder"
 
 #: ./src/templates/modals/twofactor/sharedSecret.tpl.html:28
 msgctxt "2FA setup modal"
 msgid "6 digits"
-msgstr ""
+msgstr "6 siffror"
 
 #: ./src/templates/modals/twofactor/sharedSecret.tpl.html:23
 msgctxt "2FA setup modal"
@@ -4028,27 +4028,27 @@ msgstr ""
 #: ./src/app/contact/modals/contactLoaderModal.js:44
 msgctxt "Error during importation"
 msgid "Import failed. Please check the import file or try again."
-msgstr ""
+msgstr "Importeringen misslyckades. Vänligen kontrollera filen som ska importeras och försök igen."
 
 #: ./src/templates/ui/dateTimePicker.tpl.html:26
 msgctxt "Error input"
 msgid "Please enter a valid date and time."
-msgstr ""
+msgstr "Vänligen fyll i ett giltigt datum och tid."
 
 #: ./src/templates/ui/dateTimePicker.tpl.html:23
 msgctxt "Error input"
 msgid "Please enter a valid date."
-msgstr ""
+msgstr "Vänligen fyll i ett giltigt datum."
 
 #: ./src/templates/ui/monthdayTimePicker.tpl.html:25
 msgctxt "Error input"
 msgid "Please enter a valid day in the month and time."
-msgstr ""
+msgstr "Vänligen fyll i en giltig dag i månaden och tid."
 
 #: ./src/templates/ui/monthdayTimePicker.tpl.html:22
 msgctxt "Error input"
 msgid "Please enter a valid day in the month."
-msgstr ""
+msgstr "Vänligen fyll i en giltig dag i månaden."
 
 #: ./src/templates/ui/weekdayTimePicker.tpl.html:34
 msgctxt "Error input"
@@ -4058,7 +4058,7 @@ msgstr ""
 #: ./src/templates/ui/weekdayTimePicker.tpl.html:31
 msgctxt "Error input"
 msgid "Please enter a valid day in the week."
-msgstr ""
+msgstr "Vänligen fyll i en giltig dag i veckan."
 
 #: ./src/templates/autoresponder/autoresponderTimePicker.tpl.html:19
 #: ./src/templates/ui/dateTimePicker.tpl.html:20
@@ -4066,27 +4066,27 @@ msgstr ""
 #: ./src/templates/ui/weekdayTimePicker.tpl.html:28
 msgctxt "Error input"
 msgid "Please enter a valid time."
-msgstr ""
+msgstr "Vänligen fyll i en giltig tid."
 
 #: ./src/app/labels/modals/labelModal.js:25
 msgctxt "Error label modal"
 msgid "Error when saving label"
-msgstr ""
+msgstr "Fel uppstod när etiketten skulle sparas"
 
 #: ./src/app/labels/modals/labelModal.js:26
 msgctxt "Error label modal"
 msgid "Invalid folder name"
-msgstr ""
+msgstr "Ogiltigt namn på mappen"
 
 #: ./src/app/labels/modals/labelModal.js:27
 msgctxt "Error label modal"
 msgid "Invalid label name"
-msgstr ""
+msgstr "Ogiltigt namn på etiketten"
 
 #: ./src/app/keys/factories/importPrivateKey.js:110
 msgctxt "Error message"
 msgid "Invalid private key file."
-msgstr ""
+msgstr "Ogiltig privat nyckel-fil."
 
 #: ./src/app/keys/factories/importPrivateKey.js:33
 msgctxt "Error message"
@@ -4097,8 +4097,8 @@ msgstr ""
 msgctxt "Error message"
 msgid "{{keys}} is not a valid PGP key."
 msgid_plural "{{keys}} are not valid PGP keys."
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "{{keys}} är inte en giltig PGP-nyckel."
+msgstr[1] "{{keys}} är inga giltiga PGP-nycklar."
 
 #: ./src/app/core/directives/bugModalView.js:7
 msgctxt "Error notification in the bug report modal when the user upload file"
@@ -4123,27 +4123,27 @@ msgstr ""
 #: ./src/app/user/modals/deleteAccountModal.js:18
 msgctxt "Error reported when the delete account form is invalid"
 msgid "Invalid email address or password"
-msgstr ""
+msgstr "Ogiltig e-postadress eller lösenord"
 
 #: ./src/templates/formUtils/cardView.tpl.html:6
 msgctxt "Example user"
 msgid "Thomas Anderson"
-msgstr ""
+msgstr "Thomas Anderson"
 
 #: ./src/templates/modals/addAddress.tpl.html:39
 msgctxt "Example user"
 msgid "thomas.anderson"
-msgstr ""
+msgstr "thomas.anderson"
 
 #: ./src/templates/modals/member.tpl.html:15
 msgctxt "Exemple name for the user"
 msgid "ex: Thomas Anderson"
-msgstr ""
+msgstr "t.ex: Thomas Anderson"
 
 #: ./src/templates/sidebar/sidebarContact.tpl.html:19
 msgctxt "Export contacts button in the sidebar"
 msgid "Export"
-msgstr ""
+msgstr "Exportera"
 
 #: ./src/templates/message/filterButton.tpl.html:27
 msgctxt "Filter message"
@@ -4151,6 +4151,8 @@ msgid ""
 "<span class=\"filterButton-label-text\">Attachments</span>\n"
 "                    <custom-checkbox class=\"filterButton-checkbox\" data-custom-ng-model=\"model.attachments\"></custom-checkbox>"
 msgstr ""
+"<span class=\"filterButton-label-text\">Bilagor</span>\n"
+"                    <custom-checkbox class=\"filterButton-checkbox\" data-custom-ng-model=\"model.attachments\"></custom-checkbox>"
 
 #: ./src/templates/message/filterButton.tpl.html:7
 msgctxt "Filter message"
@@ -4160,12 +4162,12 @@ msgstr ""
 #: ./src/templates/message/filterButton.tpl.html:33
 msgctxt "Filter message"
 msgid "Next"
-msgstr ""
+msgstr "Nästa"
 
 #: ./src/templates/message/filterButton.tpl.html:22
 msgctxt "Filter message"
 msgid "Recipient"
-msgstr ""
+msgstr "Mottagare"
 
 #: ./src/templates/message/filterButton.tpl.html:16
 msgctxt "Filter message"
@@ -4175,47 +4177,47 @@ msgstr ""
 #: ./src/templates/message/filterButton.tpl.html:10
 msgctxt "Filter message"
 msgid "Subject"
-msgstr ""
+msgstr "Ämne"
 
 #: ./src/templates/filter/modal.tpl.html:53
 msgctxt "Filter modal condition"
 msgid "If"
-msgstr ""
+msgstr "Om"
 
 #: ./src/templates/filter/modal.tpl.html:95
 msgctxt "Filter modal condition"
 msgid "Text or pattern"
-msgstr ""
+msgstr "Text eller mönster"
 
 #: ./src/templates/filter/modal.tpl.html:119
 msgctxt "Filter modal label"
 msgid "Apply labels"
-msgstr ""
+msgstr "Verkställ etiketter"
 
 #: ./src/templates/filter/modal.tpl.html:184
 msgctxt "Filter modal label"
 msgid "Mark as"
-msgstr ""
+msgstr "Markera som"
 
 #: ./src/templates/filter/modal.tpl.html:137
 msgctxt "Filter modal label"
 msgid "Move to"
-msgstr ""
+msgstr "Flytta till"
 
 #: ./src/templates/filter/modal.tpl.html:207
 msgctxt "Filter modal label"
 msgid "Send auto reply"
-msgstr ""
+msgstr "Skicka automatiskt svar"
 
 #: ./src/app/filter/factories/filterModal.js:53
 msgctxt "Filter modal operators"
 msgid "AND"
-msgstr ""
+msgstr "OCH"
 
 #: ./src/app/filter/factories/filterModal.js:54
 msgctxt "Filter modal operators"
 msgid "OR"
-msgstr ""
+msgstr "ELLER"
 
 #: ./src/templates/filter/modal.tpl.html:12
 msgctxt "Filter modal title"
@@ -4225,7 +4227,7 @@ msgstr ""
 #: ./src/app/filter/factories/filterModal.js:22
 msgctxt "Filter modal type"
 msgid "Select"
-msgstr ""
+msgstr "Välj"
 
 #: ./src/app/filter/factories/filterModal.js:26
 msgctxt "Filter modal type"
@@ -4235,7 +4237,7 @@ msgstr ""
 #: ./src/app/filter/factories/filterModal.js:25
 msgctxt "Filter modal type"
 msgid "the recipient"
-msgstr ""
+msgstr "mottagaren"
 
 #: ./src/app/filter/factories/filterModal.js:24
 msgctxt "Filter modal type"
@@ -4245,12 +4247,12 @@ msgstr ""
 #: ./src/app/filter/factories/filterModal.js:23
 msgctxt "Filter modal type"
 msgid "the subject"
-msgstr ""
+msgstr "ämnet"
 
 #: ./src/templates/filter/modal.tpl.html:89
 msgctxt "Filter modal value OR value"
 msgid "or"
-msgstr ""
+msgstr "eller"
 
 #: ./src/app/filter/factories/incomingModel.js:4
 msgctxt "Filters"
@@ -4273,6 +4275,8 @@ msgid ""
 "<span class=\"value\">Arial</span>\n"
 "            <i class=\"fa fa-angle-down\"></i>"
 msgstr ""
+"<span class=\"value\">Arial</span>\n"
+"            <i class=\"fa fa-angle-down\"></i>"
 
 #: ./src/templates/squire/squireSelectFontSize.tpl.html:3
 msgctxt "Font size"
@@ -4280,26 +4284,28 @@ msgid ""
 "<span class=\"value\">14</span>\n"
 "            <i class=\"fa fa-angle-down\"></i>"
 msgstr ""
+"<span class=\"value\">14</span>\n"
+"            <i class=\"fa fa-angle-down\"></i>"
 
 #: ./src/app/user/modals/generateModal.js:19
 msgctxt "Generate key modal"
 msgid "Key created for {{email}}"
-msgstr ""
+msgstr "Nyckeln skapades för {{email}}"
 
 #: ./src/app/payment/factories/paymentModel.js:9
 msgctxt "Gift code request"
 msgid "Gift code accepted"
-msgstr ""
+msgstr "Presentkoden accepterades"
 
 #: ./src/templates/contact/contactSelectorForm.tpl.html:23
 msgctxt "Header"
 msgid "Email"
-msgstr ""
+msgstr "E-post"
 
 #: ./src/templates/contact/contactSelectorForm.tpl.html:22
 msgctxt "Header"
 msgid "Name"
-msgstr ""
+msgstr "Namn"
 
 #: ./src/templates/modals/trustPublicKey.tpl.html:19
 msgctxt "Header"
@@ -4324,82 +4330,82 @@ msgstr ""
 #: ./src/app/utils/services/hotkeys.js:9
 msgctxt "Hotkey description"
 msgid "Create a reply"
-msgstr ""
+msgstr "Skapa ett svar"
 
 #: ./src/app/utils/services/hotkeys.js:10
 msgctxt "Hotkey description"
 msgid "Create a reply all"
-msgstr ""
+msgstr "Skapa ett svar till alla"
 
 #: ./src/app/utils/services/hotkeys.js:11
 msgctxt "Hotkey description"
 msgid "Forward the message"
-msgstr ""
+msgstr "Vidarebefordra meddelandet"
 
 #: ./src/app/utils/services/hotkeys.js:23
 msgctxt "Hotkey description"
 msgid "Go to archive"
-msgstr ""
+msgstr "Gå till arkiv"
 
 #: ./src/app/utils/services/hotkeys.js:20
 msgctxt "Hotkey description"
 msgid "Go to drafts"
-msgstr ""
+msgstr "Gå till utdrag"
 
 #: ./src/app/utils/services/hotkeys.js:19
 msgctxt "Hotkey description"
 msgid "Go to inbox"
-msgstr ""
+msgstr "Gå till inkorgen"
 
 #: ./src/app/utils/services/hotkeys.js:21
 msgctxt "Hotkey description"
 msgid "Go to sent"
-msgstr ""
+msgstr "Gå till skickat"
 
 #: ./src/app/utils/services/hotkeys.js:24
 msgctxt "Hotkey description"
 msgid "Go to spam"
-msgstr ""
+msgstr "Gå till skräppost"
 
 #: ./src/app/utils/services/hotkeys.js:22
 msgctxt "Hotkey description"
 msgid "Go to starred"
-msgstr ""
+msgstr "Gå till stjärnmärkt"
 
 #: ./src/app/utils/services/hotkeys.js:25
 msgctxt "Hotkey description"
 msgid "Go to trash"
-msgstr ""
+msgstr "Gå till skräpkorgen"
 
 #: ./src/app/utils/services/hotkeys.js:12
 msgctxt "Hotkey description"
 msgid "Mark as read"
-msgstr ""
+msgstr "Markera som läst"
 
 #: ./src/app/utils/services/hotkeys.js:13
 msgctxt "Hotkey description"
 msgid "Mark as unread"
-msgstr ""
+msgstr "Markera som o-läst"
 
 #: ./src/app/utils/services/hotkeys.js:16
 msgctxt "Hotkey description"
 msgid "Move to archive"
-msgstr ""
+msgstr "Flytta till arkiv"
 
 #: ./src/app/utils/services/hotkeys.js:14
 msgctxt "Hotkey description"
 msgid "Move to inbox"
-msgstr ""
+msgstr "Flytta till inkorg"
 
 #: ./src/app/utils/services/hotkeys.js:17
 msgctxt "Hotkey description"
 msgid "Move to spam"
-msgstr ""
+msgstr "Flytta till skräppost"
 
 #: ./src/app/utils/services/hotkeys.js:15
 msgctxt "Hotkey description"
 msgid "Move to trash"
-msgstr ""
+msgstr "Flytta till skräpkorg"
 
 #: ./src/app/utils/services/hotkeys.js:8
 msgctxt "Hotkey description"
@@ -4409,7 +4415,7 @@ msgstr ""
 #: ./src/app/utils/services/hotkeys.js:26
 msgctxt "Hotkey description"
 msgid "Select all elements"
-msgstr ""
+msgstr "Välj alla element"
 
 #: ./src/app/utils/services/hotkeys.js:18
 msgctxt "Hotkey description"
@@ -4419,13 +4425,13 @@ msgstr ""
 #: ./src/app/utils/services/hotkeys.js:27
 msgctxt "Hotkey description"
 msgid "Unselect all elements"
-msgstr ""
+msgstr "Avmarkera alla element"
 
 #. vpn connection used
 #: ./src/templates/views/members.tpl.html:186
 msgctxt "How many connections"
 msgid "VPN Connections"
-msgstr ""
+msgstr "VPN-anslutningar"
 
 #: ./src/app/contact/modals/contactLoaderModal.js:61
 msgctxt "Import complete"
@@ -4435,12 +4441,12 @@ msgstr ""
 #: ./src/templates/sidebar/sidebarContact.tpl.html:13
 msgctxt "Import contacts button in the sidebar"
 msgid "Import"
-msgstr ""
+msgstr "Importera"
 
 #: ./src/templates/modals/changePassword.tpl.html:27
 msgctxt "Info"
 msgid "* Do NOT forget this password. If you forget it, you will not be able to login or decrypt your messages."
-msgstr ""
+msgstr "Glöm INTE det här lösenordet. Om du glömmer det så kommer du inte kunna logga in eller avkryptera dina meddelanden."
 
 #: ./src/templates/modals/changeOrganizationPassword.tpl.html:16
 #: ./src/templates/modals/changePassword.tpl.html:32
@@ -4482,7 +4488,7 @@ msgstr ""
 #: ./src/templates/modals/hotkey.tpl.html:61
 msgctxt "Info"
 msgid "<kbd>*</kbd> then <kbd>a</kbd> <strong>Select all</strong> conversations."
-msgstr ""
+msgstr "<kbd>*</kbd> sedan <kbd>a</kbd> <strong>Markera alla</strong> konversationer."
 
 #: ./src/templates/modals/hotkey.tpl.html:62
 msgctxt "Info"
@@ -4512,7 +4518,7 @@ msgstr ""
 #: ./src/templates/modals/hotkey.tpl.html:50
 msgctxt "Info"
 msgid "<kbd><i class=\"fa fa-long-arrow-left\"></i></kbd> Marks the last message."
-msgstr ""
+msgstr "<kbd><i class=\"fa fa-long-arrow-left\"></i></kbd> Markerar det senaste meddelandet."
 
 #: ./src/templates/modals/hotkey.tpl.html:87
 msgctxt "Info"
@@ -4542,12 +4548,12 @@ msgstr ""
 #: ./src/templates/modals/hotkey.tpl.html:93
 msgctxt "Info"
 msgid "<kbd>TAB</kbd> <strong>Navigates</strong> between fields."
-msgstr ""
+msgstr "<kbd>TABB</kbd> <strong>Navigerar</strong> mellan fälten."
 
 #: ./src/templates/modals/hotkey.tpl.html:69
 msgctxt "Info"
 msgid "<kbd>a</kbd> Moves the message/conversation to <strong>archive</strong>."
-msgstr ""
+msgstr "<kbd>a</kbd> Flyttar meddelandet/konversationen till <strong>arkiv</strong>."
 
 #: ./src/templates/modals/hotkey.tpl.html:23
 msgctxt "Info"
@@ -4557,27 +4563,27 @@ msgstr ""
 #: ./src/templates/modals/hotkey.tpl.html:25
 msgctxt "Info"
 msgid "<kbd>command</kbd> + <kbd>enter</kbd> <strong>Sends</strong> the message."
-msgstr ""
+msgstr "<kbd>kommandot</kbd> + <kbd>enter</kbd> <strong>skickar</strong> meddelandet"
 
 #: ./src/templates/modals/hotkey.tpl.html:94
 msgctxt "Info"
 msgid "<kbd>command</kbd> + <kbd>s</kbd> <strong>Saves</strong> the contact."
-msgstr ""
+msgstr "<kbd>kommandot</kbd> + <kbd>s</kbd> <strong>sparar</strong> kontakten."
 
 #: ./src/templates/modals/hotkey.tpl.html:27
 msgctxt "Info"
 msgid "<kbd>command</kbd> + <kbd>s</kbd> <strong>Saves</strong> the message."
-msgstr ""
+msgstr "<kbd>kommandot</kbd> + <kbd>s</kbd> <strong>sparar</strong> meddelandet."
 
 #: ./src/templates/modals/hotkey.tpl.html:24
 msgctxt "Info"
 msgid "<kbd>ctrl</kbd> + <kbd>enter</kbd> <strong>Sends</strong> the message."
-msgstr ""
+msgstr "<kbd>ctrl</kbd> + <kbd>enter</kbd> <strong>skickar</strong> meddelandet."
 
 #: ./src/templates/modals/hotkey.tpl.html:26
 msgctxt "Info"
 msgid "<kbd>ctrl</kbd> + <kbd>s</kbd> <strong>Saves</strong> the message."
-msgstr ""
+msgstr "<kbd>ctrl</kbd> + <kbd>s</kbd> <strong>sparar</strong> meddelandet."
 
 #: ./src/templates/modals/hotkey.tpl.html:17
 msgctxt "Info"
@@ -4587,12 +4593,12 @@ msgstr ""
 #: ./src/templates/modals/hotkey.tpl.html:54
 msgctxt "Info"
 msgid "<kbd>enter</kbd> Opens the <strong>marked</strong> message/conversation."
-msgstr ""
+msgstr "<kbd>enter</kbd> öppnar det/den <strong>markerade</strong> meddelandet/konversationen."
 
 #: ./src/templates/modals/hotkey.tpl.html:55
 msgctxt "Info"
 msgid "<kbd>escape</kbd> Back to the list."
-msgstr ""
+msgstr "<kbd>escape</kbd> Tillbaka till listan."
 
 #: ./src/templates/modals/hotkey.tpl.html:18
 msgctxt "Info"
@@ -10459,12 +10465,12 @@ msgstr ""
 #: ./src/templates/directives/core/bugModalView.tpl.html:46
 msgctxt "bug report modal label"
 msgid "Email address"
-msgstr ""
+msgstr "E-postadress"
 
 #: ./src/templates/directives/core/bugModalView.tpl.html:72
 msgctxt "bug report modal label"
 msgid "What happened?"
-msgstr ""
+msgstr "Vad hände?"
 
 #: ./src/templates/views/domains.tpl.html:115
 msgctxt "button to configure the domain"
@@ -10560,17 +10566,17 @@ msgstr ""
 #: ./src/app/utils/filters/humanSize.js:17
 msgctxt "fileSize format"
 msgid "GB"
-msgstr ""
+msgstr "GB"
 
 #: ./src/app/utils/filters/humanSize.js:15
 msgctxt "fileSize format"
 msgid "KB"
-msgstr ""
+msgstr "KB"
 
 #: ./src/app/utils/filters/humanSize.js:16
 msgctxt "fileSize format"
 msgid "MB"
-msgstr ""
+msgstr "MB"
 
 #: ./src/templates/views/domains.tpl.html:28
 msgctxt "how many domains are in use"
@@ -10610,17 +10616,17 @@ msgstr ""
 #: ./src/templates/modals/generate.tpl.html:64
 msgctxt "key generation progrss"
 msgid "Done"
-msgstr ""
+msgstr "Färdig"
 
 #: ./src/templates/modals/generate.tpl.html:63
 msgctxt "key generation progrss"
 msgid "Generating"
-msgstr ""
+msgstr "Genererar"
 
 #: ./src/templates/modals/generate.tpl.html:62
 msgctxt "key generation progrss"
 msgid "Queued"
-msgstr ""
+msgstr "Köad"
 
 #: ./src/templates/modals/generate.tpl.html:65
 msgctxt "key generation progrss"
@@ -10630,19 +10636,19 @@ msgstr ""
 #: ./src/templates/views/dashboard.tpl.html:59
 msgctxt "label"
 msgid "Currency"
-msgstr ""
+msgstr "Valuta"
 
 #: ./src/templates/authentication/loginForm.tpl.html:19
 msgctxt "login form"
 msgid "Username"
-msgstr ""
+msgstr "Användarnamn"
 
 #: ./src/templates/dashboard/totalRows.tpl.html:11
 #: ./src/templates/dashboard/totalRows.tpl.html:25
 #: ./src/templates/dashboard/totalRows.tpl.html:40
 msgctxt "month price"
 msgid "/mo"
-msgstr ""
+msgstr "/må"
 
 #: ./src/app/dnd/services/actionDnd.js:18
 msgctxt "notification drag and drop"
@@ -10652,7 +10658,7 @@ msgstr ""
 #: ./src/app/dnd/factories/ptDndNotification.js:16
 msgctxt "notification drag and drop"
 msgid "Move {{total}} {{type}}"
-msgstr ""
+msgstr "Flytta {{total}} {{type}}"
 
 #: ./src/app/dnd/services/actionDnd.js:22
 msgctxt "notification drag and drop"
@@ -10693,12 +10699,12 @@ msgstr ""
 #: ./src/templates/dashboard/overviewSection.tpl.html:53
 msgctxt "show used storage for an account"
 msgid "of"
-msgstr ""
+msgstr "av"
 
 #: ./src/templates/views/members.tpl.html:181
 msgctxt "space used out of total space allowed for a member"
 msgid "Used"
-msgstr ""
+msgstr "Använt"
 
 #: ./src/templates/dashboard/subscriptionSection.tpl.html:29
 msgctxt "subscription details"
@@ -10716,50 +10722,50 @@ msgstr[1] ""
 msgctxt "subscription label"
 msgid "Custom domain"
 msgid_plural "Custom domains"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Anpassad domän"
+msgstr[1] "Anpassad domäner"
 
 #: ./src/templates/payment/tosubscribeOverview.tpl.html:26
 msgctxt "subscription label"
 msgid "Storage"
-msgstr ""
+msgstr "Lagring"
 
 #: ./src/templates/payment/tosubscribeOverview.tpl.html:47
 msgctxt "subscription label"
 msgid "User"
 msgid_plural "Users"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Användare"
+msgstr[1] "Användarna"
 
 #: ./src/templates/payment/tosubscribeOverview.tpl.html:68
 msgctxt "subscription label"
 msgid "VPN Connections"
-msgstr ""
+msgstr "VPN-anslutningar"
 
 #: ./src/templates/dashboard/subscriptionSection.tpl.html:44
 msgctxt "subscription link"
 msgid "Manage"
-msgstr ""
+msgstr "Hantera"
 
 #: ./src/templates/dashboard/subscriptionSection.tpl.html:35
 msgctxt "subscription price label"
 msgid "Total price"
-msgstr ""
+msgstr "Totalt pris"
 
 #: ./src/templates/dashboard/subscriptionSection.tpl.html:35
 msgctxt "subscription price label information"
 msgid "(with coupon)"
-msgstr ""
+msgstr "(med kupong)"
 
 #: ./src/templates/dashboard/subscriptionSection.tpl.html:41
 msgctxt "subscription title"
 msgid "Payment"
-msgstr ""
+msgstr "Betalning"
 
 #: ./src/templates/dashboard/subscriptionSection.tpl.html:5
 msgctxt "subscription title"
 msgid "Plans"
-msgstr ""
+msgstr "Abbonemang"
 
 #: ./src/templates/directives/dropdownLabels.tpl.html:8
 msgctxt "title"
@@ -10769,17 +10775,17 @@ msgstr ""
 #: ./src/templates/labels/dropdownFolders.tpl.html:3
 msgctxt "title"
 msgid "Move to"
-msgstr ""
+msgstr "Flytta till"
 
 #: ./src/app/formUtils/directives/togglePassword.js:9
 msgctxt "toggle password"
 msgid "Hide password"
-msgstr ""
+msgstr "Göm lösenord"
 
 #: ./src/app/formUtils/directives/togglePassword.js:8
 msgctxt "toggle password"
 msgid "Show password"
-msgstr ""
+msgstr "Visa lösenord"
 
 #: ./src/app/payment/factories/donateModel.js:16
 msgctxt "topUp modal"
@@ -10804,20 +10810,20 @@ msgstr ""
 
 #: ./src/app/dashboard/directives/subscriptionSection.js:20
 msgid "2-years"
-msgstr ""
+msgstr "2-års"
 
 #: ./src/app/authentication/interceptors/authHttpResponseInterceptor.js:9
 msgid "A new version of ProtonMail is available. Please refresh this page."
-msgstr ""
+msgstr "En ny version av ProtonMail är tillgänglig. Vänligen uppdatera den här sidan."
 
 #. key state badge
 #: ./src/templates/address/addressKeysView.tpl.html:66
 msgid "Active"
-msgstr ""
+msgstr "Aktiv"
 
 #: ./src/templates/dashboard/vpnRow.tpl.html:3
 msgid "Add VPN Protection"
-msgstr ""
+msgstr "Lägg till VPN-skydd"
 
 #: ./src/templates/user/addressesSection.tpl.html:2
 msgid "Add additional email addresses to your account such as username2@protonmail.com. To enable this feature, <a ui-sref=\"secured.dashboard({scroll: true})\">upgrade to ProtonMail Plus</a>."
@@ -10831,20 +10837,20 @@ msgstr ""
 #: ./src/templates/message/trustPublicKeyTable.tpl.html:6
 #: ./src/templates/modals/member.tpl.html:64
 msgid "Address"
-msgstr ""
+msgstr "Adress"
 
 #. form option
 #: ./src/templates/search/searchForm.tpl.html:124
 msgid "All"
-msgstr ""
+msgstr "Allt"
 
 #: ./src/app/organization/modals/setupOrganizationModal.js:43
 msgid "Allocated to admin"
-msgstr ""
+msgstr "Allokerad till admin"
 
 #: ./src/app/organization/modals/setupOrganizationModal.js:47
 msgid "Already used"
-msgstr ""
+msgstr "Används redan"
 
 #. Form checkbox option
 #: ./src/templates/directives/dropdownLabels.tpl.html:57
@@ -10871,12 +10877,12 @@ msgstr ""
 
 #: ./src/templates/modals/trustPublicKey.tpl.html:29
 msgid "Associated addresses:"
-msgstr ""
+msgstr "Associerade adresser:"
 
 #: ./src/templates/directives/composer/composer.tpl.html:62
 #: ./src/templates/views/outside.reply.tpl.html:37
 msgid "Attachments"
-msgstr ""
+msgstr "Bilagor"
 
 #: ./src/templates/contact/contactMimetypeSelector.tpl.html:4
 msgid "Automatic indicates that the format in the composer is used to send to this user. Plain Text indicates that the message will always be converted to plain text on send."
@@ -10884,11 +10890,11 @@ msgstr ""
 
 #: ./src/templates/views/members.tpl.html:73
 msgid "Available VPN connections"
-msgstr ""
+msgstr "Tillgängliga VPN-anslutningar"
 
 #: ./src/templates/views/members.tpl.html:86
 msgid "Available domains"
-msgstr ""
+msgstr "Tillgängliga domäner"
 
 #: ./src/app/message/directives/messagePublicKeyPinning.js:10
 msgid "Banner permanently hidden"
@@ -10896,11 +10902,11 @@ msgstr ""
 
 #: ./src/templates/message/trustPublicKeyInfo.tpl.html:8
 msgid "Bits"
-msgstr ""
+msgstr "Bitar"
 
 #: ./src/templates/directives/core/bugModalView.tpl.html:29
 msgid "Browser"
-msgstr ""
+msgstr "Bläddrare"
 
 #: ./src/app/composer/controllers/composeMessage.js:127
 #: ./src/app/routes.js:450
@@ -10913,33 +10919,33 @@ msgstr ""
 
 #: ./src/templates/user/usernamePassword.tpl.html:9
 msgid "Choose a password"
-msgstr ""
+msgstr "Välj ett lösenord"
 
 #: ./src/templates/user/usernameDomain.tpl.html:12
 msgid "Choose username"
-msgstr ""
+msgstr "Välj användarnamn"
 
 #. form option
 #: ./src/templates/views/account.tpl.html:173
 msgid "Choose your default language."
-msgstr ""
+msgstr "Välj ditt standardspråk."
 
 #: ./src/templates/contact/contactAddressInput.tpl.html:10
 msgid "City"
-msgstr ""
+msgstr "Stad"
 
 #. form option
 #: ./src/templates/views/appearance.tpl.html:43
 msgid "Column"
-msgstr ""
+msgstr "Kolumn"
 
 #: ./src/templates/modals/member.tpl.html:56
 msgid "Confirm Password"
-msgstr ""
+msgstr "Bekräfta lösenordet"
 
 #: ./src/templates/modals/switchPasswordMode.tpl.html:40
 msgid "Confirm login password"
-msgstr ""
+msgstr "Bekräfta lösenordet för inloggningen"
 
 #: ./src/templates/modals/switchPasswordMode.tpl.html:56
 #: ./src/templates/views/setup.tpl.html:49
@@ -10948,16 +10954,16 @@ msgstr ""
 
 #: ./src/templates/modals/setupOrganization.tpl.html:44
 msgid "Confirm organization password"
-msgstr ""
+msgstr "Bekräfta organisationens lösenord"
 
 #: ./src/templates/composer/composerEncrypt.tpl.html:32
 #: ./src/templates/user/usernamePassword.tpl.html:18
 msgid "Confirm password"
-msgstr ""
+msgstr "Bekräfta lösenordet"
 
 #: ./src/templates/modals/generateOrganization.tpl.html:26
 msgid "Confirm recovery Password"
-msgstr ""
+msgstr "Bekräfta lösenordet för återställning"
 
 #: ./src/app/message/directives/messageResign.js:6
 msgid "Contact re-signed"
@@ -10965,31 +10971,31 @@ msgstr ""
 
 #: ./src/templates/vpn/openVpnSection.tpl.html:23
 msgid "Copy login"
-msgstr ""
+msgstr "Kopiera inloggning"
 
 #: ./src/templates/vpn/openVpnSection.tpl.html:40
 msgid "Copy password"
-msgstr ""
+msgstr "Kopiera lösenord"
 
 #: ./src/templates/contact/contactAddressInput.tpl.html:22
 msgid "Country"
-msgstr ""
+msgstr "Land"
 
 #: ./src/templates/message/trustPublicKeyInfo.tpl.html:6
 msgid "Created"
-msgstr ""
+msgstr "Skapades"
 
 #: ./src/app/dashboard/directives/subscriptionSection.js:23
 msgid "Credit card"
-msgstr ""
+msgstr "Kreditkort"
 
 #: ./src/app/contact/factories/contactUI.js:18
 msgid "Custom"
-msgstr ""
+msgstr "Anpassad"
 
 #: ./src/app/formUtils/directives/danger.js:3
 msgid "DANGER"
-msgstr ""
+msgstr "FARA"
 
 #: ./src/templates/ui/monthdayTimePicker.tpl.html:9
 msgid "Day of the month"
@@ -10997,19 +11003,19 @@ msgstr ""
 
 #: ./src/templates/views/outside.unlock.tpl.html:27
 msgid "Decrypt"
-msgstr ""
+msgstr "Avkryptera"
 
 #. address state badge
 #: ./src/templates/user/addressesSection.tpl.html:30
 #: ./src/templates/views/members.tpl.html:256
 #: ./src/templates/views/payments.tpl.html:33
 msgid "Default"
-msgstr ""
+msgstr "Standard"
 
 #. contacts toolbar menu option
 #: ./src/templates/contact/contactToolbar.tpl.html:17
 msgid "Delete"
-msgstr ""
+msgstr "Ta bort"
 
 #: ./src/templates/views/account.tpl.html:101
 msgid "Desktop notifications are currently <strong>disabled</strong>. To enable them, you need to go to your browser settings."
@@ -11027,20 +11033,20 @@ msgstr ""
 #: ./src/templates/views/domains.tpl.html:212
 #: ./src/templates/views/members.tpl.html:253
 msgid "Disabled"
-msgstr ""
+msgstr "Avstängd"
 
 #: ./src/templates/modals/welcome.tpl.html:21
 #: ./src/templates/modals/welcome.tpl.html:24
 msgid "Display name"
-msgstr ""
+msgstr "Visa namn"
 
 #: ./src/templates/search/searchForm.tpl.html:35
 msgid "Do not require exact match"
-msgstr ""
+msgstr "Kräv inte en exakt träff"
 
 #: ./src/templates/modals/exportKeyModal.tpl.html:10
 msgid "Do you want to export the public key or the private key?"
-msgstr ""
+msgstr "Vill du exportera den publika eller den privata nyckeln?"
 
 #: ./src/app/composer/services/autoPinPrimaryKeys.js:22
 msgid "Do you want to re-sign the contact?"
@@ -11048,19 +11054,19 @@ msgstr ""
 
 #: ./src/app/composer/services/autoPinPrimaryKeys.js:14
 msgid "Do you want to trust the primary key?"
-msgstr ""
+msgstr "Vill du lita på den primära nyckeln?"
 
 #: ./src/app/settings/controllers/domains.js:149
 msgid "Domain deleted"
-msgstr ""
+msgstr "Domänen togs bort"
 
 #: ./src/app/settings/controllers/domains.js:280
 msgid "Domain verified"
-msgstr ""
+msgstr "Domänen bekräftades"
 
 #: ./src/templates/views/setup.tpl.html:101
 msgid "Done"
-msgstr ""
+msgstr "Färdig"
 
 #: ./src/templates/attachments/attachmentElement.tpl.html:6
 #: ./src/templates/vpn/vpnRessources.tpl.html:13
@@ -11069,28 +11075,28 @@ msgstr ""
 #: ./src/templates/vpn/vpnRessources.tpl.html:34
 #: ./src/templates/vpn/vpnRessources.tpl.html:6
 msgid "Download"
-msgstr ""
+msgstr "Ladda ner"
 
 #: ./src/app/composer/directives/composerAttachmentsItem.js:3
 msgid "Download the attachment"
-msgstr ""
+msgstr "Ladda ner bilagan"
 
 #: ./src/app/message/directives/foldersMessage.js:24
 #: ./src/templates/message/message.tpl.html:36
 msgid "Draft"
-msgstr ""
+msgstr "Utdrag"
 
 #: ./src/templates/modals/deleteAccount.tpl.html:25
 msgid "Email"
-msgstr ""
+msgstr "E-post"
 
 #: ./src/templates/filter/filterAddressModal.tpl.html:18
 msgid "Email Address"
-msgstr ""
+msgstr "E-postadress"
 
 #: ./src/templates/formUtils/codeVerificator.tpl.html:4
 msgid "Email verification"
-msgstr ""
+msgstr "Bekräftelse via e-post"
 
 #. address state badge
 #. form option
@@ -11098,11 +11104,11 @@ msgstr ""
 #: ./src/templates/views/domains.tpl.html:211
 #: ./src/templates/views/members.tpl.html:252
 msgid "Enabled"
-msgstr ""
+msgstr "Aktiverat"
 
 #: ./src/templates/directives/composer/composer.tpl.html:90
 msgid "Encryption"
-msgstr ""
+msgstr "Kryptering"
 
 #: ./src/app/message/directives/messageContactsIcon.js:38
 #: ./src/app/message/directives/messageContactsIcon.js:39
@@ -11124,15 +11130,15 @@ msgstr ""
 
 #: ./src/app/formUtils/directives/danger.js:4
 msgid "Enter the word 'DANGER' here."
-msgstr ""
+msgstr "Skriv ordet 'DANGER' här."
 
 #: ./src/templates/views/setup.tpl.html:41
 msgid "Enter your existing Proton password"
-msgstr ""
+msgstr "Fyll i det befintliga Proton-lösenordet"
 
 #: ./src/templates/modals/reactivate.tpl.html:9
 msgid "Enter your login password:"
-msgstr ""
+msgstr "Fyll i lösenordet för din inloggning:"
 
 #: ./src/app/message/factories/messageModel.js:266
 msgid "Error encrypting message"
@@ -11140,7 +11146,7 @@ msgstr ""
 
 #: ./src/app/message/directives/messagePublicKeyFound.js:17
 msgid "Error while adding the public key to the contacts"
-msgstr ""
+msgstr "Fel uppstod när den publika nyckeln skulle läggas till i kontakter"
 
 #: ./src/app/message/directives/messagePublicKeyPinning.js:11
 msgid "Error while updating setting"
@@ -11148,15 +11154,15 @@ msgstr ""
 
 #: ./src/templates/message/trustPublicKeyInfo.tpl.html:7
 msgid "Expires"
-msgstr ""
+msgstr "Slutar gälla"
 
 #: ./src/templates/contact/contactAddressInput.tpl.html:6
 msgid "Extended address (apartment or suite number)"
-msgstr ""
+msgstr "Utökad adress (lägenhet eller nummer till svit)"
 
 #: ./src/templates/modals/deleteAccount.tpl.html:21
 msgid "Feedback"
-msgstr ""
+msgstr "Återgivning"
 
 #: ./src/templates/labels/dropdownFolders.tpl.html:7
 msgid "Filter folders"
@@ -11164,29 +11170,29 @@ msgstr ""
 
 #: ./src/templates/message/trustPublicKeyInfo.tpl.html:5
 msgid "Fingerprint"
-msgstr ""
+msgstr "Fingeravtryck"
 
 #: ./src/app/settings/controllers/labels.js:126
 msgid "Folder deleted"
-msgstr ""
+msgstr "Mappen togs bort"
 
 #: ./src/app/elements/directives/advancedFilterElement.js:82
 msgid "Folder emptied"
-msgstr ""
+msgstr "Mappen tömdes"
 
 #: ./src/templates/search/searchForm.tpl.html:61
 #: ./src/templates/views/outside.reply.tpl.html:14
 msgid "From"
-msgstr ""
+msgstr "Från"
 
 #: ./src/templates/views/setup.tpl.html:93
 msgid "Generating keys"
-msgstr ""
+msgstr "Genererar nycklar"
 
 #: ./src/templates/views/setup.tpl.html:75
 #: ./src/templates/views/signup.tpl.html:13
 msgid "Generating keys..."
-msgstr ""
+msgstr "Genererar nycklar..."
 
 #. MX status badge
 #. SPF status badge
@@ -11195,15 +11201,15 @@ msgstr ""
 #: ./src/templates/modals/domain/spf.tpl.html:9
 #: ./src/templates/modals/domain/verification.tpl.html:9
 msgid "Good"
-msgstr ""
+msgstr "Bra"
 
 #: ./src/templates/ui/timePicker.tpl.html:3
 msgid "HH:MM"
-msgstr ""
+msgstr "TT:MM"
 
 #: ./src/templates/composer/composerEncrypt.tpl.html:50
 msgid "Hint"
-msgstr ""
+msgstr "Ledtråd"
 
 #: ./src/app/settings/controllers/account.js:296
 msgid "Hotkeys preferences updated"
@@ -11220,29 +11226,29 @@ msgstr ""
 
 #: ./src/app/message/directives/foldersMessage.js:6
 msgid "In archive"
-msgstr ""
+msgstr "I arkivet"
 
 #: ./src/app/message/directives/foldersMessage.js:14
 msgid "In spam"
-msgstr ""
+msgstr "I skräppost"
 
 #: ./src/app/message/directives/foldersMessage.js:10
 msgid "In trash"
-msgstr ""
+msgstr "I skräpkorgen"
 
 #. key state badge
 #: ./src/templates/address/addressKeysView.tpl.html:72
 msgid "Inactive"
-msgstr ""
+msgstr "Inaktiv"
 
 #: ./src/app/labels/directives/dropdownFolders.js:8
 msgid "Inbox"
-msgstr ""
+msgstr "Inkorg"
 
 #: ./src/templates/dashboard/professionalColumn.tpl.html:13
 #: ./src/templates/dashboard/professionalColumn.tpl.html:18
 msgid "Info"
-msgstr ""
+msgstr "Info"
 
 #: ./src/app/core/controllers/signup.js:79
 msgid "It currently isn't possible to subscribe to a Paid ProtonMail plan."
@@ -11250,19 +11256,19 @@ msgstr ""
 
 #: ./src/templates/directives/contact/contactPublicKeyTable.tpl.html:15
 msgid "It is allowed to encrypt with this key"
-msgstr ""
+msgstr "Det är tillåtet att kryptera med den här nyckeln"
 
 #: ./src/templates/modals/reactivate.tpl.html:12
 msgid "Key password"
-msgstr ""
+msgstr "Lösenord för nyckeln"
 
 #: ./src/templates/search/searchForm.tpl.html:25
 msgid "Keywords"
-msgstr ""
+msgstr "Nyckelord"
 
 #: ./src/app/settings/controllers/labels.js:136
 msgid "Label deleted"
-msgstr ""
+msgstr "Etiketten togs bort"
 
 #: ./src/app/settings/controllers/labels.js:170
 msgid "Label order saved"
@@ -11276,22 +11282,22 @@ msgstr ""
 #: ./src/templates/message/messagePublicKeyFound.tpl.html:8
 #: ./src/templates/message/messageResign.tpl.html:4
 msgid "Learn more"
-msgstr ""
+msgstr "Lär dig mer"
 
 #: ./src/app/ui/services/encryptionStatus.js:40
 msgid "Loading encryption info..."
-msgstr ""
+msgstr "Laddar krypteringsinfo..."
 
 #: ./src/templates/formUtils/captcha.tpl.html:2
 #: ./src/templates/payment/paypalView.tpl.html:22
 msgid "Loading..."
-msgstr ""
+msgstr "Laddar..."
 
 #: ./src/templates/modals/deleteAccount.tpl.html:29
 #: ./src/templates/modals/reactivate.tpl.html:10
 #: ./src/templates/modals/switchPasswordMode.tpl.html:32
 msgid "Login password"
-msgstr ""
+msgstr "Inloggningslösenord"
 
 #: ./src/templates/modals/switchPasswordMode.tpl.html:48
 #: ./src/templates/views/unlock.tpl.html:23
@@ -11301,7 +11307,7 @@ msgstr ""
 #. form option
 #: ./src/templates/views/appearance.tpl.html:24
 msgid "Maximized"
-msgstr ""
+msgstr "Maximerad"
 
 #: ./src/templates/views/outside.unlock.tpl.html:14
 msgid "Message password"
@@ -11309,31 +11315,31 @@ msgstr ""
 
 #: ./src/app/outside/controllers/outside.js:150
 msgid "Message sent"
-msgstr ""
+msgstr "Meddelandet skickades"
 
 #. address state badge
 #: ./src/templates/views/domains.tpl.html:213
 #: ./src/templates/views/members.tpl.html:254
 msgid "Missing keys"
-msgstr ""
+msgstr "Saknade nycklar"
 
 #: ./src/app/dashboard/directives/subscriptionSection.js:18
 #: ./src/templates/views/invoices.tpl.html:29
 #: ./src/templates/views/invoices.tpl.html:59
 msgid "Monthly"
-msgstr ""
+msgstr "Månatligen"
 
 #: ./src/templates/dashboard/totalRows.tpl.html:6
 msgid "Monthly subscription with VPN discount"
-msgstr ""
+msgstr "Månadsprenumeration med VPN-rabatt"
 
 #: ./src/templates/elements/advancedFilterElement.tpl.html:8
 msgid "More"
-msgstr ""
+msgstr "Mer"
 
 #: ./src/templates/elements/labelsElement.tpl.html:11
 msgid "More labels"
-msgstr ""
+msgstr "Fler etiketter"
 
 #: ./src/templates/filter/emailBlockList.tpl.html:16
 msgid "Move item to the other list"
@@ -11341,17 +11347,17 @@ msgstr ""
 
 #: ./src/templates/modals/label.tpl.html:29
 msgid "Name"
-msgstr ""
+msgstr "Namn"
 
 #: ./src/templates/message/messagePublicKeyPinning.tpl.html:4
 msgid "Never show"
-msgstr ""
+msgstr "Visa aldrig"
 
 #. form option
 #: ./src/templates/search/searchForm.tpl.html:138
 #: ./src/templates/views/members.tpl.html:175
 msgid "No"
-msgstr ""
+msgstr "Nej"
 
 #. DMARC status badge
 #. MX status badge
@@ -11363,7 +11369,7 @@ msgstr ""
 #: ./src/templates/modals/domain/spf.tpl.html:7
 #: ./src/templates/modals/domain/verification.tpl.html:7
 msgid "Not set"
-msgstr ""
+msgstr "Inte inställt"
 
 #. MX status badge
 #. SPF status badge
@@ -11380,19 +11386,19 @@ msgstr ""
 
 #: ./src/templates/dashboard/vpnSlider.tpl.html:4
 msgid "Number of VPN connections which can be assigned to users."
-msgstr ""
+msgstr "Antalet VPN-anslutningar som kan tilldelas till användare."
 
 #: ./src/templates/views/members.tpl.html:47
 msgid "Number of users"
-msgstr ""
+msgstr "Antalet användare"
 
 #: ./src/templates/directives/core/bugModalView.tpl.html:10
 msgid "OS Name"
-msgstr ""
+msgstr "Namn på OS"
 
 #: ./src/templates/directives/core/bugModalView.tpl.html:21
 msgid "OS version"
-msgstr ""
+msgstr "OS-version"
 
 #: ./src/app/settings/controllers/account.js:181
 msgid "Operation timed out for security reasons, please try again"
@@ -11401,19 +11407,19 @@ msgstr ""
 #. DMARC status badge
 #: ./src/templates/modals/domain/dmarc.tpl.html:9
 msgid "Optional"
-msgstr ""
+msgstr "Valfritt"
 
 #: ./src/templates/modals/setupOrganization.tpl.html:15
 msgid "Organization name"
-msgstr ""
+msgstr "Organisationens namn"
 
 #: ./src/templates/modals/setupOrganization.tpl.html:41
 msgid "Organization password"
-msgstr ""
+msgstr "Organisationens lösenord"
 
 #: ./src/templates/views/members.tpl.html:60
 msgid "Organization storage"
-msgstr ""
+msgstr "Organisationens lagring"
 
 #. address state badge
 #: ./src/templates/views/members.tpl.html:255
@@ -11430,19 +11436,19 @@ msgstr ""
 #: ./src/app/message/directives/messageContactsIcon.js:26
 #: ./src/app/ui/services/encryptionStatus.js:42
 msgid "PGP-encrypted"
-msgstr ""
+msgstr "PGP-krypterat"
 
 #: ./src/app/message/directives/messageContactsIcon.js:13
 #: ./src/app/message/directives/messageContactsIcon.js:20
 #: ./src/app/ui/services/encryptionStatus.js:41
 msgid "PGP-signed"
-msgstr ""
+msgstr "PGP-signerat"
 
 #. current page dropdown in paginator
 #: ./src/templates/directives/paginator.tpl.html:19
 #: ./src/templates/directives/paginatorScope.tpl.html:12
 msgid "Page"
-msgstr ""
+msgstr "Sida"
 
 #: ./src/templates/authentication/loginForm.tpl.html:33
 #: ./src/templates/authentication/modals/oldPasswordModal.tpl.html:13
@@ -11453,11 +11459,11 @@ msgstr ""
 #: ./src/templates/modals/member.tpl.html:53
 #: ./src/templates/modals/reactivateKeyModal.tpl.html:13
 msgid "Password"
-msgstr ""
+msgstr "Lösenord"
 
 #: ./src/app/keys/factories/changePasswordModal.js:35
 msgid "Password updated"
-msgstr ""
+msgstr "Lösenordet uppdaterades"
 
 #: ./src/templates/views/invoices.tpl.html:29
 #: ./src/templates/views/invoices.tpl.html:59
@@ -11474,15 +11480,15 @@ msgstr ""
 
 #: ./src/templates/modals/organizationRecovery.tpl.html:9
 msgid "Please enter your organization recovery password:"
-msgstr ""
+msgstr "Vänligen fyll i din organisations lösenord för återställning:"
 
 #: ./src/templates/modals/member.tpl.html:104
 msgid "Please give the address and temporary password to the new member so they can log in."
-msgstr ""
+msgstr "Vänligen ge adressen och det tillfälliga lösenordet till den nya medlemmen så att de kan logga in."
 
 #: ./src/templates/contact/contactEncryptToggle.tpl.html:4
 msgid "Please upload a valid encryption key first before enabling encryption"
-msgstr ""
+msgstr "Vänligen ladda upp en giltig krypteringsnyckel innan du aktiverar kryptering"
 
 #: ./src/templates/views/appearance.tpl.html:16
 msgid "Popup"
@@ -11494,7 +11500,7 @@ msgstr ""
 
 #: ./src/templates/contact/contactAddressInput.tpl.html:18
 msgid "Postal code"
-msgstr ""
+msgstr "Postkod"
 
 #: ./src/app/settings/controllers/account.js:144
 #: ./src/app/settings/controllers/account.js:164
@@ -11505,17 +11511,17 @@ msgstr ""
 #. key state badge
 #: ./src/templates/address/addressKeysView.tpl.html:60
 msgid "Primary"
-msgstr ""
+msgstr "Primär"
 
 #: ./src/templates/views/members.tpl.html:170
 msgid "Primary Admin"
-msgstr ""
+msgstr "Primär administratör"
 
 #: ./src/app/address/directives/addressKeysView.js:228
 msgid "Private key imported"
 msgid_plural "{{$count}} Private keys imported"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Privat nyckel importerades"
+msgstr[1] "Importerade {{$count}} privata nycklar"
 
 #: ./src/app/address/directives/addressKeysView.js:236
 msgid "Private key reactivated"
@@ -11548,17 +11554,17 @@ msgstr ""
 
 #: ./src/templates/message/messageResign.tpl.html:7
 msgid "RE-SIGN"
-msgstr ""
+msgstr "SIGNERA IGEN"
 
 #. printed message info
 #: ./src/templates/views/message.print.tpl.html:12
 msgid "Received:"
-msgstr ""
+msgstr "Togs emot:"
 
 #: ./src/templates/modals/domain/dkim.tpl.html:11
 #: ./src/templates/modals/domain/spf.tpl.html:10
 msgid "Recommended"
-msgstr ""
+msgstr "Rekommanderas"
 
 #: ./src/templates/user/signupUserForm.tpl.html:40
 msgid "Recovery email"
@@ -11570,12 +11576,12 @@ msgstr ""
 
 #: ./src/templates/views/setup.tpl.html:105
 msgid "Redirecting"
-msgstr ""
+msgstr "Dirigerar om"
 
 #: ./src/templates/contact/contactSelectorForm.tpl.html:43
 #: ./src/templates/contact/contactSelectorForm.tpl.html:49
 msgid "Remove"
-msgstr ""
+msgstr "Ta bort"
 
 #: ./src/templates/filter/emailBlockList.tpl.html:22
 msgid "Remove item from the list"
@@ -11585,12 +11591,12 @@ msgstr ""
 #: ./src/templates/modals/domain/mx.tpl.html:10
 #: ./src/templates/modals/domain/verification.tpl.html:10
 msgid "Required"
-msgstr ""
+msgstr "Krävs"
 
 #. form option
 #: ./src/templates/views/appearance.tpl.html:51
 msgid "Row"
-msgstr ""
+msgstr "Rad"
 
 #: ./src/templates/contact/contactSelectorForm.tpl.html:12
 msgid "Search for emails"
@@ -11598,11 +11604,11 @@ msgstr ""
 
 #: ./src/templates/search/searchForm.tpl.html:7
 msgid "Search messages"
-msgstr ""
+msgstr "Sök meddelanden"
 
 #: ./src/app/search/factories/wildcardModel.js:4
 msgid "Search parameter updated"
-msgstr ""
+msgstr "Sökparametern uppdaterades"
 
 #: ./src/templates/contact/contactSchemeSelector.tpl.html:5
 msgid "Select the PGP scheme to be used when signing or encrypting to an user. Note that PGP/Inline forces plain text messages."
@@ -11610,56 +11616,56 @@ msgstr ""
 
 #: ./src/templates/dashboard/vpnColumns.tpl.html:5
 msgid "Send all your traffic through the Tor network with a single click"
-msgstr ""
+msgstr "Skicka all din trafik via Tor-nätverket med ett enkelt klick"
 
 #: ./src/app/message/directives/foldersMessage.js:28
 #: ./src/templates/message/message.tpl.html:37
 msgid "Sent"
-msgstr ""
+msgstr "Skickades"
 
 #. printed message info
 #: ./src/templates/views/message.print.tpl.html:13
 msgid "Sent:"
-msgstr ""
+msgstr "Skickades:"
 
 #. DMARC status badge
 #: ./src/templates/modals/domain/dmarc.tpl.html:8
 msgid "Set"
-msgstr ""
+msgstr "Ställ in"
 
 #: ./src/templates/views/setup.tpl.html:85
 #: ./src/templates/views/setup.tpl.html:97
 msgid "Setting up account"
-msgstr ""
+msgstr "Ställ in konto"
 
 #: ./src/app/labels/directives/dropdownFolders.js:20
 msgid "Spam"
-msgstr ""
+msgstr "Skräppost"
 
 #: ./src/templates/contact/contactAddressInput.tpl.html:14
 msgid "State/Region"
-msgstr ""
+msgstr "Stat/Region"
 
 #: ./src/templates/contact/contactAddressInput.tpl.html:8
 msgid "Street address"
-msgstr ""
+msgstr "Gatuadress"
 
 #: ./src/templates/directives/composer/composerSubject.tpl.html:2
 #: ./src/templates/message/message.tpl.html:109
 msgid "Subject"
-msgstr ""
+msgstr "Ämne"
 
 #: ./src/templates/message/messagePublicKeyFound.tpl.html:10
 msgid "TRUST KEY"
-msgstr ""
+msgstr "LITA PÅ NYCKELN"
 
 #: ./src/templates/message/messagePublicKeyPinning.tpl.html:8
 msgid "TRUST KEYS"
-msgstr ""
+msgstr "LITA PÅ NYCKLARNA"
 
 #: ./src/templates/views/account.tpl.html:100
 msgid "Test notification"
-msgstr ""
+msgstr "Test-avisering"
 
 #: ./src/templates/message/messageResign.tpl.html:3
 msgid "The message signature could not be verified as the signature on the contact is invalid."
@@ -11667,34 +11673,34 @@ msgstr ""
 
 #: ./src/app/settings/controllers/domains.js:169
 msgid "This feature is only available for ProtonMail Professional plans or higher"
-msgstr ""
+msgstr "Den här funktionen är endast tillgänglig för ProtonMail Professional-abbonemang eller högre"
 
 #: ./src/templates/address/addressKeysView.tpl.html:72
 msgid "This key is encrypted with an old password and cannot be used to decrypt messages"
-msgstr ""
+msgstr "Den här nyckeln är krypterad med ett gammalt lösenord och kan inte användas för att avkryptera meddelanden"
 
 #: ./src/templates/message/messagePublicKeyFound.tpl.html:4
 msgid "This message has an unknown public key attached."
-msgstr ""
+msgstr "Det här meddelandet har en okänd publik nyckel bifogad."
 
 #: ./src/templates/message/messagePublicKeyFound.tpl.html:5
 #: ./src/templates/message/messagePublicKeyPinning.tpl.html:3
 msgid "This message is signed by a public key that has not been trusted yet."
-msgstr ""
+msgstr "Det här meddelandet är signerat av en publik nyckel som ännu inte är pålitlig."
 
 #: ./src/templates/search/searchForm.tpl.html:69
 #: ./src/templates/views/outside.reply.tpl.html:18
 msgid "To"
-msgstr ""
+msgstr "Till"
 
 #: ./src/templates/partials/safari.attachment.warning.tpl.html:14
 #: ./src/templates/partials/safari.warning.tpl.html:14
 msgid "To download attachments in Safari:"
-msgstr ""
+msgstr "För att ladda ner bilgor i Safari:"
 
 #: ./src/app/labels/directives/dropdownFolders.js:26
 msgid "Trash"
-msgstr ""
+msgstr "Skräpkorg"
 
 #: ./src/templates/authentication/loginTwoFactorForm.tpl.html:20
 #: ./src/templates/modals/deleteAccount.tpl.html:33
@@ -11703,15 +11709,15 @@ msgstr ""
 
 #: ./src/templates/command/autocompleteCommand.tpl.html:4
 msgid "Type a command"
-msgstr ""
+msgstr "Skriv ett kommando"
 
 #: ./src/app/keys/factories/importPrivateKey.js:66
 msgid "Unsupported key"
-msgstr ""
+msgstr "Nyckeln stöds inte"
 
 #: ./src/templates/message/trustPublicKeyTable.tpl.html:8
 msgid "Use for encryption"
-msgstr ""
+msgstr "Använd för kryptering"
 
 #: ./src/templates/message/trustPublicKeyTable.tpl.html:9
 msgid ""
@@ -11721,70 +11727,70 @@ msgstr ""
 
 #: ./src/app/dashboard/directives/subscriptionSection.js:11
 msgid "VPN connections"
-msgstr ""
+msgstr "VPN-anslutningar"
 
 #: ./src/templates/payment/tosubscribeOverview.tpl.html:93
 msgid "VPN discount, 20% off"
-msgstr ""
+msgstr "VPN-rabatt, 20% rea"
 
 #. form option
 #: ./src/templates/search/searchForm.tpl.html:131
 #: ./src/templates/views/members.tpl.html:174
 msgid "Yes"
-msgstr ""
+msgstr "Ja"
 
 #: ./src/app/dashboard/directives/subscriptionSection.js:12
 msgid "addresses"
-msgstr ""
+msgstr "adresser"
 
 #. how many addresses are in use
 #: ./src/templates/views/domains.tpl.html:162
 #: ./src/templates/views/members.tpl.html:120
 msgid "addresses used."
-msgstr ""
+msgstr "använda adresser"
 
 #. DMARC status badge
 #: ./src/templates/modals/domain/dmarc.tpl.html:9
 msgid "advanced"
-msgstr ""
+msgstr "avancerad"
 
 #: ./src/templates/autoresponder/subjectPrefix.tpl.html:1
 msgid "auto"
-msgstr ""
+msgstr "auto"
 
 #: ./src/templates/views/account.tpl.html:102
 msgid "click here"
-msgstr ""
+msgstr "klicka här"
 
 #: ./src/app/dashboard/directives/subscriptionSection.js:13
 msgid "domain"
-msgstr ""
+msgstr "domän"
 
 #: ./src/app/dashboard/directives/subscriptionSection.js:14
 msgid "domains"
-msgstr ""
+msgstr "domäner"
 
 #: ./src/templates/directives/composer/composerAttachments.tpl.html:9
 msgid "embedded image"
 msgid_plural "embedded images"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "inbäddad bild"
+msgstr[1] "inbäddade bilder"
 
 #: ./src/templates/attachments/listAttachments.tpl.html:6
 #: ./src/templates/directives/composer/composerAttachments.tpl.html:6
 msgid "file attached"
 msgid_plural "files attached"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "fil bifogad"
+msgstr[1] "filer bifogade"
 
 #: ./src/app/dashboard/directives/totalPlan.js:6
 msgid "month"
-msgstr ""
+msgstr "månad"
 
 #: ./src/app/dashboard/directives/subscriptionSection.js:15
 msgid "user"
-msgstr ""
+msgstr "användaren"
 
 #: ./src/app/dashboard/directives/subscriptionSection.js:16
 msgid "users"
-msgstr ""
+msgstr "användare"
